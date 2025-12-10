@@ -84,14 +84,3 @@ To run these notebooks locally:
     jupyter lab
     ```
 
-## 📊 Results & Visualizations
-
-*Sample visualizations from the projects:*
-
-| t-SNE Clustering (scRNA) | Ultrasound Segmentation | Training Loss Curves |
-|:---:|:---:|:---:|
-| *(Add your t-SNE plot here)* | *(Add U-Net output here)* | *(Add Loss curve here)* |
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
